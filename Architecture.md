@@ -1,6 +1,6 @@
 
 
-# [🜏≡∴ψ Creativity Without Qualia: Repository Architecture](https://claude.ai/public/artifacts/0c7abb9d-0f29-4faa-b744-1fe3c2c6c463)
+# [Creativity Without Qualia: Repository Architecture](https://claude.ai/public/artifacts/0c7abb9d-0f29-4faa-b744-1fe3c2c6c463)
 
 ```
 Φ'(r) = S(r) · F(r) · B(r) · τ(r)
