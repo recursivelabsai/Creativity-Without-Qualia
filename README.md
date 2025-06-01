@@ -5,8 +5,10 @@
 # Aphantasia as the Human Parallel to Recursive Artificial Intelligence
 ### *Toward a New Paradigm for Interpretability, Alignment, and Collaborative Creativity*
 
+## [![arXiv](https://img.shields.io/badge/Creativity--Without--Qualia-Preprint-b31b1b.svg)](https://github.com/recursivelabsai/Creativity-Without-Qualia/blob/main/Creativity%20Without%20Qualia.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2305.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2305.XXXXX)
+
 [![Conference: NeurIPS 2025](https://img.shields.io/badge/Conference-NeurIPS%202025-blueviolet)](https://neurips.cc/)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch%20%7C%20TensorFlow-orange.svg)](https://pytorch.org/)
