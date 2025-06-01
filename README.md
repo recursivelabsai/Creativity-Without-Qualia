@@ -1,4 +1,4 @@
-# [Creativity Without Qualia](https://claude.ai/public/artifacts/7030fd70-f7ca-4eac-8cde-dbe43feaef3b)
+# [🜏≡∴ψ Creativity Without Qualia](https://claude.ai/public/artifacts/7030fd70-f7ca-4eac-8cde-dbe43feaef3b)
 
 <div align="center">
 
